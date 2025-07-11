@@ -1,8 +1,6 @@
-Thanks for uploading the line follower robot report. Here's how you can **convert this project into a clean GitHub repository structure**, with a proper `README.md` file and all relevant content for others to understand and use.
 
----
 
-## ✅ GitHub Repository Structure
+## ✅ Repository Structure
 
 ```
 line-follower-webots/

@@ -1,34 +1,3 @@
-
-
-## ✅ Repository Structure
-
-```
-line-follower-webots/
-│
-├── README.md
-├── controller/
-│   └── line_follower.py            # Your Python controller script
-│
-├── worlds/
-│   └── line_follower.wbt           # Webots simulation world file (if available)
-│
-├── protos/
-│   └── TrackOne.proto              # Custom PROTO file you wrote
-│
-├── assets/                         # (Optional) Screenshots or diagrams
-│   └── robot_model.png
-│
-└── report/
-    └── LineFollowerReport.pdf      # Your original report file
-```
-
----
-
-## 📘 `README.md` for GitHub
-
-Here’s your optimized `README.md`:
-
-
 # 🤖 Line Follower Robot Using Webots
 
 A simple line follower robot project developed in the Webots robotics simulator using Python. The robot uses infrared sensors and differential wheel motors to detect and follow a black line on the floor.

@@ -133,8 +133,8 @@ elif right_ir_value > left_ir_value:
 
 ## 🙌 Contributors
 
-* Muhammad Taqui (01-136221-021)
-* Babar Ali (01-136221-051)
+* Muhammad Taqui
+* Babar Ali
 
 ---
 
